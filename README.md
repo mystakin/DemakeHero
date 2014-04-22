@@ -1,9 +1,15 @@
 A = Green 
+
 S = Red 
+
 D = Yellow 
+
 F = Blue 
+
 G = Orange 
+
 Arrow Keys = Strum 
+
 ESC = Quit Game 
 
 I've been a huge Guitar Hero fan since the very first release on PS2. When the idea of demakes came up, I decided it would be a nice opportunity to try recreating one of my favorite franchises. 
